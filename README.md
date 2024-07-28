@@ -1,3 +1,3 @@
-Abstract <br>
+Abstract ✨<br>
 Linear Accelerator system is used to verify and evaluate the solid rocket motors by the radiography process. Since LINAC system is generating the high energy X-rays (15MeV) critical sub systems like Klystron, Linear Accelerator tube, Circulator, Pulse transformer, target and etc are getting heated up and need to be operated in constant temperature. Hence chilled water needs to be circulated to the above mentioned sub systems in order to maintain constant thermal stability. This project is the PLC based pump operation & control system for chilled water circulation system to Linear Accelerator system. Pump is controlled through PLC and operated through SCADA from control room. Project consisting of ON/OFF switch, pump and water level sensor (level interlock). In case the level sensor failed to function, simulation option is provided to continue with the operation. <br>
-Keywords: LINAC, PLC, SCADA, simulation.
+<br>Keywords: LINAC, PLC, SCADA, simulation.
